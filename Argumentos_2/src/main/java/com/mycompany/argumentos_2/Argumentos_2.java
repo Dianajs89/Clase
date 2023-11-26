@@ -19,7 +19,6 @@ public class Argumentos_2 {
         
         for(int i=0;i<argumento1_numero;i++){
             System.out.println("producto " +num+":" + argumento0 +" " + i);
-                 
             num++;
             
         }
